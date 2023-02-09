@@ -9,6 +9,7 @@ Sets permission to file
 Sets mode of file
 Sets mode of 2 files
 More directories
+Change group
 
 
 
