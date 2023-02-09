@@ -11,6 +11,8 @@ Sets mode of 2 files
 More directories
 Change group
 Owner and group
+Symbolic links
+If only
 
 
 
