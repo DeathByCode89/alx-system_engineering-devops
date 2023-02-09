@@ -7,6 +7,7 @@ Adds executive permission to the owner of a file
 Multiple permissions
 Sets permission to file
 Sets mode of file
+Sets mode of 2 files
 
 
 
