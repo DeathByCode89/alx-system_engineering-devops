@@ -4,3 +4,4 @@
 3. What about 2? - Command to display the content of two files.
 4. Last lines of a file - Command to display the last 10 lines of a file.
 5. I'd prefer the first ones actually - Command to display the first 10 lines.
+6. Line #2 - Command that displays the third line of the file iacta.
