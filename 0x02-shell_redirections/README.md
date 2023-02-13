@@ -12,3 +12,4 @@
 11. Don't just count your directories, make your directories count - Command counts the number of directories and sub-directories in the current directory and hidden.
 12. Display the 10 newest files in your cwd.
 13. Takes a list of words as input and prints only words that appear exactly once.
+14. Display lines containing the pattern “root” from the file /etc/passwd.
